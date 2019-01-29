@@ -1,0 +1,968 @@
+Client,Position,Skillset,InterviewType,Gender,StartPermission,Unscheduled,FollowUp,AlternativeContact,Resume,Venue,Letter,ExpectAttend,Attendence,MaritalStat
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yet to confirm,Yes,Yes,Yes,Yes,No,Not Sure,No,No,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Not Sure,No,No,Married
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,No,No,Yes,No,Yes,No,No,No,No,Married
+UST,Dot Net,Routine,Scheduled ,Male,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Married
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,No,No,Yes,Yes,No,No,Not Sure,No,No,Married
+Standard Chartered Bank,Routine,Java Tech Lead,Scheduled ,Female,Not yet,Yes,Yes,Yes,Yes,Yes,Not Sure,No,No,Married
+Standard Chartered Bank,AML,Routine,Scheduled ,Male,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Married
+Standard Chartered Bank,Trade Finance,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Married
+Standard Chartered Bank,Trade Finance,Routine,Scheduled ,Female,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Married
+Standard Chartered Bank,Niche,Java-SAS,Scheduled ,Male,Not yet,Yes,Yes,Yes,No,Yes,Yes,No,No,Married
+Pfizer,Niche,Tech lead-Mednet,Scheduled ,Male,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Married
+Pfizer,Niche,Tech lead-Mednet,Scheduled ,Male,No,Not Sure,Yes,Yes,Yes,Yes,Yes,No,No,Married
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Married
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Married
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Married
+Flextronics,Routine,Java Developer,Scheduled ,Female,Yes,Yes,Yes,No,Yes,Yes,No,Uncertain,No,Married
+Hospira,Niche,RA Label,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Uncertain,No,Married
+Hospira,Routine,Analytical R & D,Scheduled ,Male,Yes,Yes,No,Yes,No,Yes,Yes,Uncertain,No,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,No,Yes,Not Yet,Yes,Yes,Uncertain,No,Married
+Hospira,Production- Sterile,Routine,Scheduled ,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Uncertain,No,Married
+Pfizer,Routine,production,Scheduled ,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Uncertain,No,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Not yet,Yes,Yes,Yes,Yes,Yes,Yes,Uncertain,No,Married
+Hospira,Routine,Analytical R & D,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Pfizer,Niche,Tech lead-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Sr Automation Testing,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Lending & Liability,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Java/J2ee/Core Java,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Prodapt,Routine,COTS Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Prodapt,Routine,COTS Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Prodapt,Routine,COTS Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Prodapt,Routine,COTS Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,CDD KYC,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank Chennai,Routine,Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,9.00 Am,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,"Java, Spring, Hibernate",Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Java Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Java ,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Java ,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,"Java,spring,hibernate",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,AML,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Trade Finance,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Oracle Plsql,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Lending and Liabilities,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,Lending and Liabilities,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Hospira,Routine,Java J2EE,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Hospira,Routine,Java J2EE,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Hospira,Routine,Java J2EE,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,"Java,J2ee, JSF",Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Married
+Standard Chartered Bank,Routine,BaseSAS Program/ Reporting,Scheduled ,Male,Not yet,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Married
+Standard Chartered Bank,Trade Finance,Routine,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,No,Not Sure,No,Yes,Married
+Hospira,Routine,Regulatory,Scheduled ,Male,Yes,Yes,No,Yes,Yes,Yes,No,Uncertain,Yes,Married
+Flextronics,Routine,Java Developer,Scheduled ,Male,Yes,Yes,No,No,Yes,Yes,Yes,Uncertain,Yes,Married
+Flextronics,Routine,Java Developer,Scheduled ,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Uncertain,Yes,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Uncertain,Yes,Married
+Hospira,Niche,Biosimiliars,Scheduled ,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,Uncertain,Yes,Married
+ANZ,Niche,Banking Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+ANZ,Niche,Banking Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Niche,Biosimiliars,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Niche,RA Label,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Niche,RA Publishing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Niche,RA Publishing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Niche,EMEA,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Niche,EMEA,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Routine,Regulatory,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Routine,Regulatory,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Routine,Regulatory,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Routine,Analytical R & D,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Routine,Analytical R & D,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Tech lead-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Tech lead-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Tech Lead- Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Sr Automation Testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Sr Automation Testing,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Senior Analyst,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Routine,production,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Routine,production,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Routine,production,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Routine,production,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Aon Hewitt,Routine,"Java,SQL",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Astrazeneca,Niche,ALS Testing,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Astrazeneca,Niche,ALS Testing,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Astrazeneca,Niche,ALS Testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Astrazeneca,Niche,ALS Testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Astrazeneca,Niche,ALS Testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Flextronics,Routine,Java Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Flextronics,Routine,Java Developer,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Flextronics,Routine,Java Developer,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Flextronics,Routine,Java Developer,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Flextronics,Routine,Java Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Lending & Liability,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,L & L,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Lending&Liablities,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java/J2ee/Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java/J2ee/Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java J2EE,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java/J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Niche,T-24 developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Niche,T-24 developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Niche,T-24 developer,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Niche,T-24 developer,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Niche,T-24 developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Prodapt,Routine,COTS Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Prodapt,Routine,COTS Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Williams Lea,Routine,Java,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Barclays,Niche,Product Control,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Barclays,Niche,Product Control,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Barclays,Niche,Product Control,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Barclays,Niche,Product Control,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Prodapt,Routine,COTS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Prodapt,Routine,COTS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Prodapt,Routine,COTS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Prodapt,Routine,COTS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hewitt,Routine,testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Flextronics,Niche,#NAME?,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Flextronics,Niche,#NAME?,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Williams Lea,Routine,ETL,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Niche,Java-SAS,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java Tech Lead,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Woori Bank,Routine,Manager,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,SCCm- Desktop support,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,SCCm- Desktop support,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,SCCm- Desktop support,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,SCCm- Desktop support,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Biosimiliars,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,RA Publishing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,RA Publishing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,EMEA,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,EMEA,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Biosimiliars,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Licensing – RA,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Licensing – RA,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,generic drugs – RA,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Biosimiliars,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,CDD KYC,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,CDD KYC,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,CDD KYC,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java Developer,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,"Java,spring,hibernate",Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,"Java, XML, Struts, hibernate",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/J2EE,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java ,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java ,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java ,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java ,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Java,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,AML,Routine,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,AML,Routine,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,AML,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Trade Finance,Routine,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Trade Finance,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Trade Finance,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Trade Finance,Routine,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Biosimillar,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Biosimillar,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Publishing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Publishing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Publishing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Pfizer,Niche,Publishing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle Plsql,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Oracle Plsql,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Lending and Liabilities,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Lending and Liabilities,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,Lending and Liabilities,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,CDD KYC,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,CDD KYC,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,CDD KYC,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,CDD KYC,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hospira,Routine,Java J2EE,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Married
+Hewitt,Routine,Dot Net,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Single
+UST,Dot Net,Routine,Scheduled ,Male,No,Yes,Yes,Yes,No,Yes,No,No,No,Single
+Hewitt,Routine,testing,Scheduled ,Female,Not yet,Yes,Yes,Yes,No,Yes,No,No,No,Single
+Hewitt,Routine,testing,Scheduled ,Female,Not yet,Yes,Yes,No,Yes,Yes,No,No,No,Single
+UST,Dot Net,Routine,Scheduled ,Male,No,No,Yes,Yes,Yes,Yes,No,No,No,Single
+UST,Dot Net,Routine,Scheduled ,Male,Not yet,Yes,Yes,Yes,Yes,Yes,No,No,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,No,Yes,Yes,Yes,No,No,Not Sure,No,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,No,Yes,Yes,Yes,No,No,Not Sure,No,No,Single
+Standard Chartered Bank,Niche,Java-SAS,Scheduled ,Female,Not yet,Yes,Yes,Yes,Yes,No,Not Sure,No,No,Single
+Williams Lea,Niche,ETL,Scheduled ,Female,Not yet,Not Sure,Yes,No,Not Yet,Yes,Not Sure,No,No,Single
+Hewitt,Routine,testing,Scheduled ,Female,Not yet,Yes,Yes,No,Not Yet,Yes,Not Sure,No,No,Single
+Standard Chartered Bank,Niche,Java-SAS,Scheduled ,Male,Not yet,Yes,Yes,Yes,Not Yet,Yes,Not Sure,No,No,Single
+Williams Lea,Niche,ETL,Scheduled ,Male,Not yet,Not Sure,Yes,No,Not Yet,No,Yes,No,No,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yet to confirm,Yes,Yes,Yes,Yes,No,Yes,No,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,No,No,No,No,No,Yes,Yes,No,No,Single
+Hewitt,Routine,testing,Scheduled ,Female,Not yet,Not Sure,Yes,No,No,Yes,Yes,No,No,Single
+Williams Lea,Niche,ETL,Scheduled ,Male,Not yet,Not Sure,Yes,Yes,No,Yes,Yes,No,No,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yet to confirm,Yes,Yes,Yes,No,Yes,Yes,No,No,Single
+UST,Dot Net,Routine,Scheduled ,Female,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yet to confirm,Yes,Yes,No,Yes,Yes,Yes,No,No,Single
+Pfizer,Niche,Tech lead-Mednet,Scheduled ,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Single
+Pfizer,Niche,Technical Lead,Scheduled ,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Single
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Single
+Standard Chartered Bank,Routine,Java Tech Lead,Scheduled ,Female,Not yet,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Single
+Standard Chartered Bank,AML,Routine,Scheduled ,Female,Yes,Yes,Yes,No,Yes,Yes,Not Sure,Uncertain,No,Single
+Standard Chartered Bank,Routine,Java JSF,Walkin,Female,Not yet,Yes,Yes,No,No,Yes,No,Uncertain,No,Single
+Hospira,Routine,Analytical R&D,Scheduled ,Male,Yes,No,Yes,Yes,Yes,Yes,No,Uncertain,No,Single
+Standard Chartered Bank,Routine,Senior Analyst,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Uncertain,No,Single
+Aon Hewitt,Routine,"Java,SQL",Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,No,Uncertain,No,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,No,Not Sure,Uncertain,No,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Not Sure,Uncertain,No,Single
+UST,Dot Net,Routine,Scheduled ,Male,Yes,Yes,Yes,No,No,Yes,Yes,Uncertain,No,Single
+Hospira,Production- Sterile,Routine,Scheduled ,Male,Yes,Yes,No,Yes,No,Yes,Yes,Uncertain,No,Single
+UST,Dot Net,Routine,Scheduled ,Female,No,Yes,No,No,Yes,Yes,Yes,Uncertain,No,Single
+Standard Chartered Bank,Routine,CDD KYC,Walkin,Male,Yes,Yes,No,No,Yes,Yes,Yes,Uncertain,No,Single
+Hospira,Niche,generic drugs – RA,Scheduled ,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Uncertain,No,Single
+Standard Chartered Bank,Routine,Lending & Liability,Scheduled ,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Uncertain,No,Single
+Standard Chartered Bank,Routine,Oracle Plsql,Walkin,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Uncertain,No,Single
+Standard Chartered Bank,Routine,Java Tech Lead,Scheduled ,Male,Not yet,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Sr Automation Testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Senior Analyst,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Senior Analyst,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Pfizer,Routine,Regulatory,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Java/J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Niche,T-24 developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Prodapt,Routine,COTS Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Prodapt,Routine,COTS Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Prodapt,Routine,COTS Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Hewitt,Routine,Dot Net,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Hewitt,Routine,testing,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Hewitt,Routine,testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Aon Hewitt,Routine,"JAVA,SQL",Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,"SCCM-(Network, sharepoint,ms exchange)",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,sccm,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,SCCM – Sharepoint,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,CDD KYC,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank Chennai,Routine,Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank Chennai,Routine,Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank Chennai,Routine,Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,"Java,J2ee, JSF",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,"Java,J2ee, JSF",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,"Java ,J2ee",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,10.00 AM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,"Java,J2EE",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,"Java, Spring, Hibernate",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,"Java,spring,hibernate",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,"Java, XML, Struts, hibernate",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Java Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Java Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Hospira,Production- Sterile,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Hospira,Production- Sterile,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Aon Hewitt,Selenium testing,Routine,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+UST,Dot Net,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Trade Finance,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Pfizer,Niche,Global Labelling,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Oracle Plsql,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Lending and Liabilities,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Lending and Liabilities,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,Lending and Liabilities,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,CDD KYC,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,CDD KYC,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,"Java,J2ee, JSF",Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+UST,Dot Net,Routine,Scheduled ,Male,No,Yes,Yes,Yes,Yes,Yes,Not Sure,Uncertain,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,No,No,Uncertain,Yes,Single
+Standard Chartered Bank,Routine,Automation Testing Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Uncertain,Yes,Single
+Hospira,Routine,Analytical R & D,Scheduled ,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Uncertain,Yes,Single
+Standard Chartered Bank,Routine,TL,Scheduled ,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Uncertain,Yes,Single
+Standard Chartered Bank,Routine,CDD KYC,Scheduled ,Male,Yes,Yes,Yes,Yes,Not Yet,Yes,Yes,Uncertain,Yes,Single
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Male,Not yet,Yes,Yes,No,Yes,Yes,Yes,Uncertain,Yes,Single
+Hospira,Routine,Analytical R & D,Scheduled ,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Uncertain,Yes,Single
+Standard Chartered Bank,Routine,CDD KYC,Scheduled ,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Uncertain,Yes,Single
+Standard Chartered Bank,Routine,CDD KYC,Walkin,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Uncertain,Yes,Single
+Standard Chartered Bank,Routine,Senior Analyst,Scheduled ,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,Uncertain,Yes,Single
+Standard Chartered Bank,Routine,Java J2ee,Scheduled ,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Uncertain,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Not yet,Yes,Yes,Yes,Yes,Yes,Yes,Uncertain,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,No,Yes,No,No,No,No,Yes,Uncertain,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hospira,Niche,RA Publishing,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hospira,Routine,Regulatory,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hospira,Routine,Regulatory,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hospira,Routine,Analytical R & D,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hospira,Routine,Analytical R & D,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hospira,Routine,Analytical R&D,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hospira,Routine,Analytical R & D,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Niche,Tech lead-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Niche,Tech lead-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Niche,Senior software engineer-Mednet,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Sr Automation Testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Sr Automation Testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Sr Automation Testing,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Sr Automation Testing,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,TL,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Routine,Regulatory,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Routine,Regulatory,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon hewitt Gurgaon,Routine,Java J2EE,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon hewitt Gurgaon,Routine,Java J2EE,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Automation Testing Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Automation Testing Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Astrazeneca,Niche,ALS Testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Flextronics,Routine,Java Developer,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Lending And Liabilities,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,L & L,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Lending&Liablities,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java/J2ee/Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java/J2ee/Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java/J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java/J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java/J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java/J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java/J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Niche,T-24 developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Niche,T-24 developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Niche,T-24 developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Niche,T-24 developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Williams Lea,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Barclays,Niche,Product Control,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hewitt,Routine,Dot Net,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hewitt,Routine,Dot Net,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hewitt,Routine,Dot Net,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hewitt,Routine,Dot Net,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hewitt,Routine,Dot Net,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hewitt,Routine,Dot Net,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hewitt,Routine,Dot Net,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hewitt,Routine,testing,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hewitt,Routine,testing,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hewitt,Routine,testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hewitt,Routine,testing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Flextronics,Niche,#NAME?,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Flextronics,Niche,#NAME?,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Williams Lea,Routine,ETL,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Williams Lea,Routine,ETL,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Williams Lea,Routine,ETL,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Williams Lea,Routine,ETL,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Williams Lea,Niche,ETL,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Niche,Java-SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java Tech Lead,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java Tech Lead,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Routine,"JAVA,SQL",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Routine,"JAVA,SQL",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Routine,"JAVA,SQL",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Routine,"JAVA,SQL",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Routine,"Java, SQL",Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Routine,"Java, SQL",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Niche,Hadoop,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Sccm- networking,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SCCM – SQL,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Production Support - SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Production Support - SCCM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,SAS,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Niche,RA Publishing,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Niche,EMEA,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Niche,LCM -Manager,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Niche,Biosimiliars,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Niche,generic drugs – RA,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,CDD KYC,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,CDD KYC,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,CDD KYC,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,CDD KYC,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank Chennai,Routine,Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank Chennai,Routine,Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank Chennai,Routine,Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank Chennai,Routine,Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank Chennai,Routine,Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank Chennai,Routine,Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank Chennai,Routine,Core Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,"Java ,J2ee",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,"Java ,J2ee",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,11.30 AM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,9.30 AM,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java J2ee,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE/Struts/Hibernate,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,"Java, XML, Struts, hibernate",Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java Developer,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java Developer,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/J2EE,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java ,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java ,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java ,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java ,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Selenium testing,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Selenium testing,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Selenium testing,Routine,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Aon Hewitt,Selenium testing,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+UST,Dot Net,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+UST,Dot Net,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+UST,Dot Net,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+UST,Dot Net,Routine,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+UST,Dot Net,Routine,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+UST,Dot Net,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+UST,Dot Net,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+UST,Dot Net,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+UST,Dot Net,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,AML,Routine,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,AML,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Trade Finance,Routine,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Trade Finance,Routine,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Accounting Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+ANZ,Niche,Banking Operations,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,AML/KYC/CDD,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Routine,Submission Management,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Pfizer,Niche,Global Labelling,Scheduled ,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Fresher,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle Plsql,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle Plsql,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle Plsql,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle Plsql,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Oracle Plsql,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Lending and Liabilities,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Lending and Liabilities,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Lending and Liabilities,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,CDD KYC,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,CDD KYC,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,CDD KYC,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Hospira,Routine,Java J2EE,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,JAVA/SPRING/HIBERNATE/JSF,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+Standard Chartered Bank,Routine,Java,Walkin,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Single
+﻿﻿,,,,,,,,,,,,,,
